@@ -3,7 +3,9 @@
 **Start Date**: 16 Nov 2022
 ** End Date** : In progress
 
-**Problem Statement** FM Pickup time is given to driver discretion based on driver's intuition on most efficient route. However this is not optimal, and and algorithm is used to sequence FM pickup routes based on Ready-To-Ship (rts) updates in system
+### Problem Statement
+
+FM Pickup time is given to driver discretion based on driver's intuition on most efficient route. However this is not optimal, and and algorithm is used to sequence FM pickup routes based on Ready-To-Ship (rts) updates in system
 
 
 Data comes from:
@@ -26,7 +28,7 @@ That file is then used to run the  Solver function for a minimisation function o
 
 ### Output
 
-The final output of this exercise is a route plan which contains the order of pickup by Segment, followed by RTS hour.
+The final output of this exercise is a route plan which contains the order of pickup by Segment, ordered in sequence by RTS hour.
 
 
 
