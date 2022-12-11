@@ -1,5 +1,8 @@
 ## FM Pickup Optimisation
 
+**Start Date**: 16 Nov 2022
+** End Date** : In progress
+
 **Problem Statement** FM Pickup time is given to driver discretion based on driver's intuition on most efficient route. However this is not optimal, and and algorithm is used to sequence FM pickup routes based on Ready-To-Ship (rts) updates in system
 
 
