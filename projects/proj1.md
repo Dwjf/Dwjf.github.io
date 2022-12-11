@@ -3,6 +3,11 @@
 **Start Date**: 16 Nov 2022
 ** End Date** : In progress
 
+*files:*
+[fm solver](https://github.com/user/repo/blob/branch/other_file.md)
+
+[R file 1](https://github.com/user/repo/blob/branch/other_file.md)
+
 ### Problem Statement
 
 FM Pickup time is given to driver discretion based on driver's intuition on most efficient route. However this is not optimal, and and algorithm is used to sequence FM pickup routes based on Ready-To-Ship (rts) updates in system
@@ -29,6 +34,10 @@ That file is then used to run the  Solver function for a minimisation function o
 ### Output
 
 The final output of this exercise is a route plan which contains the order of pickup by Segment, ordered in sequence by RTS hour.
+
+This was further plotted in QGIS and path was plotted according to order sequence
+
+![Route Schedule Path in QGIS](../images/route_schedule_qgis.png)
 
 
 
